@@ -1,0 +1,8 @@
+<map id="debug.h" name="debug.h">
+<area shape="rect" id="node3" href="$client_8c.htm" title="This file contains functions to manage clients registered with sleepd to veto suspend requests..." alt="" coords="5,83,69,112"/>
+<area shape="rect" id="node5" href="$shutdown_8c.htm" title="Two&#45;tiered shutdown system sequence." alt="" coords="93,83,184,112"/>
+<area shape="rect" id="node7" href="$suspend_8c.htm" title="Suspend/Resume logic to conserve battery when device is idle." alt="" coords="208,83,293,112"/>
+<area shape="rect" id="node9" href="$suspend__ipc_8c.htm" title="Power Events Luna calls." alt="" coords="317,83,427,112"/>
+<area shape="rect" id="node11" href="$init_8c.htm" title="init.c" alt="" coords="451,83,501,112"/>
+<area shape="rect" id="node13" href="$sysfs_8c.htm" title="Get or set sysfs entries." alt="" coords="525,83,589,112"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="main.h" name="main.h">
+<area shape="rect" id="node3" href="$alarm_8c.htm" title="Old interface (deprecated) to add/clear alarms using RTC." alt="" coords="5,83,72,112"/>
+<area shape="rect" id="node5" href="$timeout__alarm_8c.htm" title="New interface add/clear alarms using RTC." alt="" coords="96,83,216,112"/>
+<area shape="rect" id="node7" href="$main_8c.htm" title="main.c" alt="" coords="240,83,301,112"/>
+<area shape="rect" id="node9" href="$activity_8c.htm" title="This file contains functions to manage activities, which are entities that can be registered with sle..." alt="" coords="325,83,400,112"/>
+<area shape="rect" id="node11" href="$shutdown_8c.htm" title="Two&#45;tiered shutdown system sequence." alt="" coords="424,83,515,112"/>
+<area shape="rect" id="node13" href="$suspend_8c.htm" title="Suspend/Resume logic to conserve battery when device is idle." alt="" coords="539,83,624,112"/>
+<area shape="rect" id="node15" href="$suspend__ipc_8c.htm" title="Power Events Luna calls." alt="" coords="648,83,757,112"/>
+<area shape="rect" id="node17" href="$timesaver_8c.htm" title="timesaver.c" alt="" coords="781,83,875,112"/>
+</map>

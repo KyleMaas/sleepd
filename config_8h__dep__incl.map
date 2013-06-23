@@ -1,0 +1,8 @@
+<map id="config.h" name="config.h">
+<area shape="rect" id="node3" href="$alarm_8c.htm" title="Old interface (deprecated) to add/clear alarms using RTC." alt="" coords="5,83,72,112"/>
+<area shape="rect" id="node5" href="$timeout__alarm_8c.htm" title="New interface add/clear alarms using RTC." alt="" coords="96,83,216,112"/>
+<area shape="rect" id="node7" href="$suspend_8c.htm" title="Suspend/Resume logic to conserve battery when device is idle." alt="" coords="240,83,325,112"/>
+<area shape="rect" id="node9" href="$suspend__ipc_8c.htm" title="Power Events Luna calls." alt="" coords="349,83,459,112"/>
+<area shape="rect" id="node11" href="$init_8c.htm" title="init.c" alt="" coords="483,83,533,112"/>
+<area shape="rect" id="node13" href="$timesaver_8c.htm" title="timesaver.c" alt="" coords="557,83,651,112"/>
+</map>

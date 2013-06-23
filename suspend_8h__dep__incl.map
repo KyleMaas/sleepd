@@ -1,0 +1,5 @@
+<map id="suspend.h" name="suspend.h">
+<area shape="rect" id="node3" href="$activity_8c.htm" title="This file contains functions to manage activities, which are entities that can be registered with sle..." alt="" coords="5,83,80,112"/>
+<area shape="rect" id="node5" href="$suspend_8c.htm" title="Suspend/Resume logic to conserve battery when device is idle." alt="" coords="104,83,189,112"/>
+<area shape="rect" id="node7" href="$suspend__ipc_8c.htm" title="Power Events Luna calls." alt="" coords="213,83,323,112"/>
+</map>

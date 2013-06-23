@@ -1,0 +1,10 @@
+<map id="init.h" name="init.h">
+<area shape="rect" id="node3" href="$timeout__alarm_8c.htm" title="New interface add/clear alarms using RTC." alt="" coords="5,83,125,112"/>
+<area shape="rect" id="node5" href="$main_8c.htm" title="main.c" alt="" coords="149,83,211,112"/>
+<area shape="rect" id="node7" href="$activity_8c.htm" title="This file contains functions to manage activities, which are entities that can be registered with sle..." alt="" coords="235,83,309,112"/>
+<area shape="rect" id="node9" href="$sawmill__logger_8c.htm" title="This module&#39;s purpose is to log periodic statistics to /var/log/messages for processing by sawmill..." alt="" coords="333,83,459,112"/>
+<area shape="rect" id="node11" href="$shutdown_8c.htm" title="Two&#45;tiered shutdown system sequence." alt="" coords="483,83,573,112"/>
+<area shape="rect" id="node13" href="$suspend_8c.htm" title="Suspend/Resume logic to conserve battery when device is idle." alt="" coords="597,83,683,112"/>
+<area shape="rect" id="node15" href="$suspend__ipc_8c.htm" title="Power Events Luna calls." alt="" coords="707,83,816,112"/>
+<area shape="rect" id="node17" href="$init_8c.htm" title="init.c" alt="" coords="840,83,891,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="machine.h" name="machine.h">
+<area shape="rect" id="node3" href="$shutdown_8c.htm" title="Two&#45;tiered shutdown system sequence." alt="" coords="5,83,96,112"/>
+<area shape="rect" id="node5" href="$suspend_8c.htm" title="Suspend/Resume logic to conserve battery when device is idle." alt="" coords="120,83,205,112"/>
+<area shape="rect" id="node7" href="$init_8c.htm" title="init.c" alt="" coords="229,83,280,112"/>
+</map>

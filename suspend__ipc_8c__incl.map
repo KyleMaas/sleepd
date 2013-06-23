@@ -1,0 +1,13 @@
+<map id="suspend_ipc.c" name="suspend_ipc.c">
+<area shape="rect" id="node9" href="$wait_8h.htm" title="wait.h" alt="" coords="221,83,280,112"/>
+<area shape="rect" id="node15" href="$init_8h.htm" title="init.h" alt="" coords="397,83,448,112"/>
+<area shape="rect" id="node17" href="$main_8h.htm" title="main.h" alt="" coords="656,83,717,112"/>
+<area shape="rect" id="node24" href="$debug_8h.htm" title="debug.h" alt="" coords="563,83,632,112"/>
+<area shape="rect" id="node34" href="$client_8h.htm" title="client.h" alt="" coords="472,83,539,112"/>
+<area shape="rect" id="node38" href="$shutdown_8h.htm" title="shutdown.h" alt="" coords="741,83,835,112"/>
+<area shape="rect" id="node40" href="$suspend_8h.htm" title="suspend.h" alt="" coords="1008,83,1093,112"/>
+<area shape="rect" id="node43" href="$activity_8h.htm" title="activity.h" alt="" coords="909,83,984,112"/>
+<area shape="rect" id="node45" href="$logging_8h.htm" title="logging.h" alt="" coords="1277,83,1355,112"/>
+<area shape="rect" id="node49" href="$lunaservice__utils_8h.htm" title="lunaservice_utils.h" alt="" coords="1117,83,1253,112"/>
+<area shape="rect" id="node52" href="$config_8h.htm" title="config.h" alt="" coords="304,83,373,112"/>
+</map>

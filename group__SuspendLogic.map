@@ -1,0 +1,4 @@
+<map id="Suspend/Resume State Machine" name="Suspend/Resume State Machine">
+<area shape="rect" id="node3" href="$group__SuspendIPC.htm" title="Various luna methods &amp; signals to support suspend/resume logic in sleepd, like registering clients fo..." alt="" coords="381,13,555,43"/>
+<area shape="rect" id="node2" href="$group__PowerEvents.htm" title="Power events are all the events that affect system power." alt="" coords="5,13,115,43"/>
+</map>

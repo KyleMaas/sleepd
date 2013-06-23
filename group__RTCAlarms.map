@@ -1,0 +1,4 @@
+<map id="RTC alarms" name="RTC alarms">
+<area shape="rect" id="node1" href="$group__NewInterface.htm" title="New interface for RTC alarms using SQLite." alt="" coords="152,5,261,35"/>
+<area shape="rect" id="node2" href="$group__OldInterface.htm" title="Old (deprecated) interface to add/clear RTC alarms." alt="" coords="155,59,259,88"/>
+</map>

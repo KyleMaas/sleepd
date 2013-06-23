@@ -1,0 +1,4 @@
+<map id="wait.h" name="wait.h">
+<area shape="rect" id="node3" href="$suspend_8c.htm" title="Suspend/Resume logic to conserve battery when device is idle." alt="" coords="5,83,91,112"/>
+<area shape="rect" id="node5" href="$suspend__ipc_8c.htm" title="Power Events Luna calls." alt="" coords="115,83,224,112"/>
+</map>

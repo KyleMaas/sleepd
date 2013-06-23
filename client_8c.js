@@ -1,0 +1,28 @@
+var client_8c =
+[
+    [ "LOG_DOMAIN", "client_8c.htm#a95a1d08c807e0aada863b5298a61d08d", null ],
+    [ "_PwrEventClientPrintNACKHelper", "client_8c.htm#ga7a728e84a48ce4256189126ec45930a9", null ],
+    [ "PwrEventClientGetTable", "client_8c.htm#gaf4903355341c41867a47f2e662990950", null ],
+    [ "PwrEventClientLookup", "client_8c.htm#ga0fa784a84502554d169d2e6257cf330d", null ],
+    [ "PwrEventClientPrepareSuspendNACKIncr", "client_8c.htm#gae1e0c94802f582329b7129d98633c6ed", null ],
+    [ "PwrEventClientPrepareSuspendRegister", "client_8c.htm#ga21edf0b4ccad975015469b857a9ec3df", null ],
+    [ "PwrEventClientPrintNACKRateLimited", "client_8c.htm#ga2b4f1e087036cce0640ca0da7f0c086a", null ],
+    [ "PwrEventClientRegister", "client_8c.htm#ga79070ade94597a2dac3d756d8bfa1da1", null ],
+    [ "PwrEventClientsApprovePrepareSuspend", "client_8c.htm#ga7ce161ccb5e5b4a00151194edac0af5e", null ],
+    [ "PwrEventClientsApproveSuspendRequest", "client_8c.htm#ga409190c8e91172524f31330c6fcb3a73", null ],
+    [ "PwrEventClientSuspendRequestNACKIncr", "client_8c.htm#ga9362fa16a72052e7282ccef4e33cf56e", null ],
+    [ "PwrEventClientSuspendRequestRegister", "client_8c.htm#ga43dac2f7c6cd5fef0d0035bcb21af993", null ],
+    [ "PwrEventClientTableCreate", "client_8c.htm#gaaaea37a91665f8315e56de84f131f2e0", null ],
+    [ "PwrEventClientTableDestroy", "client_8c.htm#ga8acbd4388f1cb487e81fadf168907a3d", null ],
+    [ "PwrEventClientTablePrint", "client_8c.htm#ga77cf509353b2d3a072f60af922c8cada", null ],
+    [ "PwrEventClientTablePrintHelper", "client_8c.htm#ga3df0053cb6d4619082c86907b76969ab", null ],
+    [ "PwrEventClientUnregister", "client_8c.htm#gaac671867cf3d90a66d3f0ea18b2c8c8b", null ],
+    [ "PwrEventClientUnregisterByName", "client_8c.htm#gaccaa01307449c4159036a7ae4166c368", null ],
+    [ "PwrEventGetClientTable", "client_8c.htm#gad790105c371aeb62679bbdbc980e806c", null ],
+    [ "PwrEventGetPrepareSuspendNORSPList", "client_8c.htm#ga86e4be7002e6ea86ace68afdac890fca", null ],
+    [ "PwrEventGetSuspendRequestNORSPList", "client_8c.htm#ga2fb1abb5fe0e716f66750e445cef838b", null ],
+    [ "PwrEventVoteInit", "client_8c.htm#gafb8c5539435a141c6a91d830968a4528", null ],
+    [ "PwrEventVoteInitHelper", "client_8c.htm#gab332815fc4ab3bf73d4869b13c9921d8", null ],
+    [ "PwrEventVotePrepareSuspend", "client_8c.htm#gac753614a2cdf6c5f84007b2a855505ac", null ],
+    [ "PwrEventVoteSuspendRequest", "client_8c.htm#ga24ab44d7464067c954a7ac827e2f93c3", null ]
+];

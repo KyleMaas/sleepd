@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['sclientlist',['sClientList',['../shutdown_8c.htm#a5b79403c221e46433582ad91e1e2a373',1,'shutdown.c']]],
+  ['seq_5fid',['seq_id',['../struct__AlarmQueue.htm#a6fd0ea757be58245f00a9e338250e2b1',1,'_AlarmQueue']]],
+  ['servicename',['serviceName',['../struct__Alarm.htm#a5da14f4a67327084f8422242fed66b33',1,'_Alarm']]],
+  ['services',['services',['../structShutdownClientList.htm#af611803ca398e1538fc868179627f5b1',1,'ShutdownClientList']]],
+  ['shutdown_5fapps_5ftimeout_5fid',['shutdown_apps_timeout_id',['../shutdown_8c.htm#af1f1dd0ce6f8e11c66cd4df03eb14cbe',1,'shutdown.c']]],
+  ['shutdown_5fmessage',['shutdown_message',['../shutdown_8c.htm#a48421b5835564155c44d73fdf2fcfe65',1,'shutdown.c']]],
+  ['shutdown_5fmethods',['shutdown_methods',['../group__ShutdownProcess.htm#ga79abecfde46a7e9cb2413eaec207ee57',1,'shutdown.c']]],
+  ['shutdown_5fsignals',['shutdown_signals',['../group__ShutdownProcess.htm#ga5f1ac7278bcdc503e3cf7002eac10090',1,'shutdown.c']]],
+  ['shutdown_5ftimer',['shutdown_timer',['../shutdown_8c.htm#a669991af563bcb7600c479e96589ba90',1,'shutdown.c']]],
+  ['shutdownreplystring',['ShutdownReplyString',['../shutdown_8c.htm#acdf2b6980263cf74c38b74c6ee6e4d0e',1,'shutdown.c']]],
+  ['source',['source',['../struct__GTimerSource.htm#a2fd881b7e295df861d66ddf964a715d1',1,'_GTimerSource']]],
+  ['ssuspendrtc',['sSuspendRTC',['../group__SuspendLogic.htm#ga822617052ac133e5854e77bab8bbc79d',1,'suspend.c']]],
+  ['start_5ftime',['start_time',['../structActivity.htm#a1fa1c49d25b07ea0ce2bfbf1ba45caeb',1,'Activity']]],
+  ['state',['state',['../structShutdownStateNode.htm#aea57df55f3834dd36fb03f8983cb302e',1,'ShutdownStateNode::state()'],['../structPowerStateNode.htm#a7b27d58ace165a29ec5bf7c4121fa47c',1,'PowerStateNode::state()']]],
+  ['stimeonstartsuspend',['sTimeOnStartSuspend',['../group__SuspendLogic.htm#ga11d1a53064e8483e385d479508b44122',1,'suspend.c']]],
+  ['stimeonsuspended',['sTimeOnSuspended',['../group__SuspendLogic.htm#gabf3c280a5f09031a4cf1545ccdb176ae',1,'suspend.c']]],
+  ['stimeonwake',['sTimeOnWake',['../group__SuspendLogic.htm#ga7841fc94c43e6d998571dba6d68c04a0',1,'suspend.c']]],
+  ['suspend_5floop',['suspend_loop',['../group__SuspendLogic.htm#ga8b7f9012d936db38b088741f74daec96',1,'suspend.c']]],
+  ['suspend_5fwith_5fcharger',['suspend_with_charger',['../structSleepConfiguration.htm#a1f0b4f310488fd84bea18aa04ba3e7a6',1,'SleepConfiguration']]],
+  ['swakertc',['sWakeRTC',['../group__SuspendLogic.htm#gacf7800d60bc1b16e682b5e06261b9d5f',1,'suspend.c']]]
+];

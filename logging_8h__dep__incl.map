@@ -1,0 +1,14 @@
+<map id="logging.h" name="logging.h">
+<area shape="rect" id="node3" href="$alarm_8c.htm" title="Old interface (deprecated) to add/clear alarms using RTC." alt="" coords="5,83,72,112"/>
+<area shape="rect" id="node5" href="$smartsql_8c.htm" title="Convenience functions to interact with the rtc driver." alt="" coords="96,83,181,112"/>
+<area shape="rect" id="node7" href="$timeout__alarm_8c.htm" title="New interface add/clear alarms using RTC." alt="" coords="205,83,325,112"/>
+<area shape="rect" id="node9" href="$main_8c.htm" title="main.c" alt="" coords="349,83,411,112"/>
+<area shape="rect" id="node11" href="$activity_8c.htm" title="This file contains functions to manage activities, which are entities that can be registered with sle..." alt="" coords="435,83,509,112"/>
+<area shape="rect" id="node13" href="$client_8c.htm" title="This file contains functions to manage clients registered with sleepd to veto suspend requests..." alt="" coords="533,83,597,112"/>
+<area shape="rect" id="node15" href="$shutdown_8c.htm" title="Two&#45;tiered shutdown system sequence." alt="" coords="621,83,712,112"/>
+<area shape="rect" id="node17" href="$suspend_8c.htm" title="Suspend/Resume logic to conserve battery when device is idle." alt="" coords="736,83,821,112"/>
+<area shape="rect" id="node19" href="$suspend__ipc_8c.htm" title="Power Events Luna calls." alt="" coords="845,83,955,112"/>
+<area shape="rect" id="node21" href="$logging_8c.htm" title="Logging interface." alt="" coords="979,83,1056,112"/>
+<area shape="rect" id="node23" href="$sysfs_8c.htm" title="Get or set sysfs entries." alt="" coords="1080,83,1144,112"/>
+<area shape="rect" id="node25" href="$timesaver_8c.htm" title="timesaver.c" alt="" coords="1168,83,1261,112"/>
+</map>

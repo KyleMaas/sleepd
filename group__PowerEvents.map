@@ -1,0 +1,6 @@
+<map id="Power Events" name="Power Events">
+<area shape="rect" id="node1" href="$group__ShutdownProcess.htm" title="The Shutdown Process:" alt="" coords="179,5,317,35"/>
+<area shape="rect" id="node2" href="$group__SuspendLogic.htm" title="Suspend/Resume state machine:" alt="" coords="164,58,332,105"/>
+<area shape="rect" id="node3" href="$group__PowerActivities.htm" title="Duration of time to prevent the system from sleeping." alt="" coords="188,128,308,157"/>
+<area shape="rect" id="node4" href="$group__SuspendClient.htm" title="Clients registering for device suspend polling." alt="" coords="187,181,309,211"/>
+</map>

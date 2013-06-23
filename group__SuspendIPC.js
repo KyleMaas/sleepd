@@ -1,0 +1,25 @@
+var group__SuspendIPC =
+[
+    [ "activityEndCallback", "group__SuspendIPC.htm#ga57f9fbdcde236f363d4895fc29076ef7", null ],
+    [ "activityStartCallback", "group__SuspendIPC.htm#gaadae5adb2667c668767fc2b81c539813", null ],
+    [ "clientCancel", "group__SuspendIPC.htm#gaf0d31a82ec4c01d3119bf64f069402fb", null ],
+    [ "clientCancelByName", "group__SuspendIPC.htm#ga5543c4170fb2832927fb6929360deceb", null ],
+    [ "com_palm_suspend_lunabus_init", "group__SuspendIPC.htm#ga4042464239f8f526a29cc4c2d2a3baec", null ],
+    [ "forceSuspendCallback", "group__SuspendIPC.htm#gac74b9aceb6430999d2b4e6383ae87d93", null ],
+    [ "identifyCallback", "group__SuspendIPC.htm#ga0ffc8ef42313c61fa1017d94ed355c83", null ],
+    [ "INIT_FUNC", "group__SuspendIPC.htm#ga0c08b1f08a63f5136eb1e3c1b908d928", null ],
+    [ "prepareSuspendAck", "group__SuspendIPC.htm#gaf11f37612b5e48be5c56e2215c6610fc", null ],
+    [ "prepareSuspendRegister", "group__SuspendIPC.htm#ga83f0d196ea905b2b7ec655b14d6dbaf0", null ],
+    [ "SendPrepareSuspend", "group__SuspendIPC.htm#gae42d777567329f6a2323c4340b7abd4a", null ],
+    [ "SendResume", "group__SuspendIPC.htm#gabb84387de9aa2bca1a5800b1d47cbcd1", null ],
+    [ "SendSuspended", "group__SuspendIPC.htm#gaf20ac7561c80120fe08c6d82ca45ec2e", null ],
+    [ "SendSuspendRequest", "group__SuspendIPC.htm#ga1d435e589fc0000af1688e58afc73af3", null ],
+    [ "SuspendIPCInit", "group__SuspendIPC.htm#gaff37524b504fb13036dbedcf1ae6cd44", null ],
+    [ "suspendRequestAck", "group__SuspendIPC.htm#ga98f49ed78e08f891ddb11dbf5e421a40", null ],
+    [ "suspendRequestRegister", "group__SuspendIPC.htm#gafa56b5ac9810c37a11475978602b15a5", null ],
+    [ "TESTSuspendCallback", "group__SuspendIPC.htm#ga98df7a56e5729a6c748b57268346d8dc", null ],
+    [ "visualLedSuspendCallback", "group__SuspendIPC.htm#gabfc3a9180d89cbfe1045822d729388b0", null ],
+    [ "com_palm_suspend_methods", "group__SuspendIPC.htm#gacf09a025620121987394a79575bbee99", null ],
+    [ "com_palm_suspend_public_methods", "group__SuspendIPC.htm#gab9161999b2f34f1c9b13edc88d682bb9", null ],
+    [ "com_palm_suspend_signals", "group__SuspendIPC.htm#gae1e307885d0e4747656bb2cb6a4c4716", null ]
+];

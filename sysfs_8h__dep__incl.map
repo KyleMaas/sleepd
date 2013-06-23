@@ -1,0 +1,4 @@
+<map id="sysfs.h" name="sysfs.h">
+<area shape="rect" id="node3" href="$sawmill__logger_8c.htm" title="This module&#39;s purpose is to log periodic statistics to /var/log/messages for processing by sawmill..." alt="" coords="5,83,131,112"/>
+<area shape="rect" id="node5" href="$suspend_8c.htm" title="Suspend/Resume logic to conserve battery when device is idle." alt="" coords="155,83,240,112"/>
+</map>

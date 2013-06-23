@@ -1,0 +1,27 @@
+var group__SuspendClient =
+[
+    [ "_PwrEventClientPrintNACKHelper", "group__SuspendClient.htm#ga7a728e84a48ce4256189126ec45930a9", null ],
+    [ "PwrEventClientGetTable", "group__SuspendClient.htm#gaf4903355341c41867a47f2e662990950", null ],
+    [ "PwrEventClientLookup", "group__SuspendClient.htm#ga0fa784a84502554d169d2e6257cf330d", null ],
+    [ "PwrEventClientPrepareSuspendNACKIncr", "group__SuspendClient.htm#gae1e0c94802f582329b7129d98633c6ed", null ],
+    [ "PwrEventClientPrepareSuspendRegister", "group__SuspendClient.htm#ga21edf0b4ccad975015469b857a9ec3df", null ],
+    [ "PwrEventClientPrintNACKRateLimited", "group__SuspendClient.htm#ga2b4f1e087036cce0640ca0da7f0c086a", null ],
+    [ "PwrEventClientRegister", "group__SuspendClient.htm#ga79070ade94597a2dac3d756d8bfa1da1", null ],
+    [ "PwrEventClientsApprovePrepareSuspend", "group__SuspendClient.htm#ga7ce161ccb5e5b4a00151194edac0af5e", null ],
+    [ "PwrEventClientsApproveSuspendRequest", "group__SuspendClient.htm#ga409190c8e91172524f31330c6fcb3a73", null ],
+    [ "PwrEventClientSuspendRequestNACKIncr", "group__SuspendClient.htm#ga9362fa16a72052e7282ccef4e33cf56e", null ],
+    [ "PwrEventClientSuspendRequestRegister", "group__SuspendClient.htm#ga43dac2f7c6cd5fef0d0035bcb21af993", null ],
+    [ "PwrEventClientTableCreate", "group__SuspendClient.htm#gaaaea37a91665f8315e56de84f131f2e0", null ],
+    [ "PwrEventClientTableDestroy", "group__SuspendClient.htm#ga8acbd4388f1cb487e81fadf168907a3d", null ],
+    [ "PwrEventClientTablePrint", "group__SuspendClient.htm#ga77cf509353b2d3a072f60af922c8cada", null ],
+    [ "PwrEventClientTablePrintHelper", "group__SuspendClient.htm#ga3df0053cb6d4619082c86907b76969ab", null ],
+    [ "PwrEventClientUnregister", "group__SuspendClient.htm#gaac671867cf3d90a66d3f0ea18b2c8c8b", null ],
+    [ "PwrEventClientUnregisterByName", "group__SuspendClient.htm#gaccaa01307449c4159036a7ae4166c368", null ],
+    [ "PwrEventGetClientTable", "group__SuspendClient.htm#gad790105c371aeb62679bbdbc980e806c", null ],
+    [ "PwrEventGetPrepareSuspendNORSPList", "group__SuspendClient.htm#ga86e4be7002e6ea86ace68afdac890fca", null ],
+    [ "PwrEventGetSuspendRequestNORSPList", "group__SuspendClient.htm#ga2fb1abb5fe0e716f66750e445cef838b", null ],
+    [ "PwrEventVoteInit", "group__SuspendClient.htm#gafb8c5539435a141c6a91d830968a4528", null ],
+    [ "PwrEventVoteInitHelper", "group__SuspendClient.htm#gab332815fc4ab3bf73d4869b13c9921d8", null ],
+    [ "PwrEventVotePrepareSuspend", "group__SuspendClient.htm#gac753614a2cdf6c5f84007b2a855505ac", null ],
+    [ "PwrEventVoteSuspendRequest", "group__SuspendClient.htm#ga24ab44d7464067c954a7ac827e2f93c3", null ]
+];
